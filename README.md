@@ -3,9 +3,8 @@
 #### **Author:** Ryan Hatch  
 #### **Date of Development:** Mon Nov 4th, 2024  
 #### **Last Modified:** Tues Nov 5th, 2024  
-#### **Description:** Designing a neural network using TensorFlow 2.0 and comparing the accuracy of the outputs based off of the models training.
+#### **Description:** Building a neural network using TensorFlow 2.0 and comparing the accuracy of the outputs based off of the models training.
 
-##
 ---
 
 #### To install TensorFlow 2.0 using pip:
