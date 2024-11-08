@@ -1,17 +1,14 @@
 # Training and Comparing Neural Network Models
 
+### **Author:** Ryan Hatch  
+### **Date of Development:** Mon Nov 4th, 2024  
+### **Last Modified:** Tues Nov 5th, 2024  
+### **Description:** Designing a neural network using TensorFlow 2.0 and comparing the accuracy of the outputs based off of the models training.
+
+---
+
+#### To install TensorFlow 2.0 using pip:
 ```markdown
-# **Author:** Ryan Hatch  
-# **Date of Development:** Mon Nov 4th, 2024  
-# **Last Modified:** Tues Nov 5th, 2024  
-
----
-
-**Description:** This is a simple example of a neural network using TensorFlow 2.0.
-
----
-
-# To install TensorFlow 2.0 using pip:
 pip install tensorflow==2.0.0
 pip install --upgrade tensorflow
 ```
