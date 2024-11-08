@@ -6,7 +6,7 @@
 
 ---
 
-#### To install TensorFlow 2.0 using pip:
+<i>To install TensorFlow 2.0 using pip:</i>
 ```markdown
 pip install tensorflow==2.0.0
 pip install --upgrade tensorflow
