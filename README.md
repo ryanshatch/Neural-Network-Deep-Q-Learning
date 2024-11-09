@@ -1,5 +1,4 @@
 # Training and Comparing Neural Network Models
-
 #### **Author:** Ryan Hatch  
 **Date of Development:** Nov 4th, 2024
 > **Description:** Building a neural network using TensorFlow 2.0 and comparing the accuracy of the outputs based off of the models training.
