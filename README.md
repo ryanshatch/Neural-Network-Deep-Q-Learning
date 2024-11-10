@@ -13,7 +13,7 @@ pip install --upgrade tensorflow
 
 ---
 
-## Checking Tensorflow is installed correctly
+## Checking Tensorflow is installed correctly:
 
 ```python
 import tensorflow as tf
