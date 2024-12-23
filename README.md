@@ -1,8 +1,19 @@
-# Training and Comparing Neural Network Models
+# Ai and Deep Q-Learning:
 #### **Author:** Ryan Hatch  
-**Date of Development:** Nov 4th, 2024
-> **Description:** Building a neural network using TensorFlow 2.0 and comparing the accuracy of the outputs based off of the models training.
 
+> **Description:** Building a neural network using TensorFlow 2.0 and comparing the accuracy of the outputs based off of the models training.
+<hr>
+In developing Treazure Map AI Agents, I developed additional functionalities to enhance the Cartpole simulation using Deep Q-Learning to solve a game where the agent acts as a pirate and trains itself using RL to find the treasure.
+<br>
+
+> `TreasureMaze.py` defines the maze environment and `GameExperience.py` is used for implementing an experience replay.
+<hr>
+
+_The `qtrain` function was developed for optimal Deep Q-Learning, tuning hyperparameters, and enhancing visualizations to track the AI's progress after its training._
+
+<br>
+The Deep Q-Learning project showed me how AI fits into what computer scientists do every day and how can be used in solving problems, advancing technology, and handling ethical challenges. This class taught me to look at problems closer and more clearly, to design and test solutions differently and more efficiently. This class also reminded me how important it is to respect user privacy, follow rules, and think about the bigger picture and to solve issues while keeping ethics in mind.
+<hr>
 ---
 
 <i>To install TensorFlow 2.0 using pip:</i>
