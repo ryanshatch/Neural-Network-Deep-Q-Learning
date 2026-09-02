@@ -1,12 +1,26 @@
-# Ai and Deep Q-Learning:
-#### **Author:** Ryan Hatch  
+<div align="center">
+ <h1>AI/RL and Deep Q-Learning by Ryan S. Hatch</h1>
+</div>
+<!-- # Ai and Deep Q-Learning:
+#### **Author:** Ryan Hatch -->
 
+<div align="center">
+  <a href="https://github.com/ryanshatch/Neural-Network-Deep-Q-Learning/commits/main">
+    <img src="https://img.shields.io/github/last-commit/ryanshatch/blockchain-analysis-on-threat-actors?style=flat-square&amp;label=REPO%20UPDATED&amp;color=007EC6" alt="Repository last updated">
+  </a>
+  <a href="https://github.com/ryanshatch/Neural-Network-Deep-Q-Learning/issues">
+    <img src="https://img.shields.io/github/issues/ryanshatch/blockchain-analysis-on-threat-actors?style=flat-square&amp;color=007EC6" alt="Open issues">
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/(c)%20All%20Rights%20Reserved%20by%20Ryanshatch-555555?style=flat-square" alt="All rights reserved">
+  </a>
+</div>
+
+<div align="center">
 <img width="235" height="235" alt="image" src="https://github.com/user-attachments/assets/a2128d1a-98ce-4b29-9466-6659c0c564ae" />
-
 <img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/d4d82bfd-f615-4361-9903-fbc26faa3fac" />
-
 <img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/77dc0036-38e2-4e25-bd01-8dad14f3340c" />
-
+</div>
 
 > **Description:** Building a neural network using TensorFlow 2.0 and comparing the accuracy of the outputs based off of the models training.
 <hr>
