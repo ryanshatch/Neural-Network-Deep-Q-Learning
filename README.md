@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/ryanshatch/Neural-Network-Deep-Q-Learning/commits/main">
-    <img src="https://img.shields.io/github/last-commit/ryanshatch/blockchain-analysis-on-threat-actors?style=flat-square&amp;label=REPO%20UPDATED&amp;color=007EC6" alt="Repository last updated">
+    <img src="https://img.shields.io/github/last-commit/ryanshatch/Neural-Network-Deep-Q-Learning?style=flat-square&amp;label=REPO%20UPDATED&amp;color=007EC6" alt="Repository last updated">
   </a>
   <a href="https://github.com/ryanshatch/Neural-Network-Deep-Q-Learning/issues">
-    <img src="https://img.shields.io/github/issues/ryanshatch/blockchain-analysis-on-threat-actors?style=flat-square&amp;color=007EC6" alt="Open issues">
+    <img src="https://img.shields.io/github/issues/ryanshatch/Neural-Network-Deep-Q-Learning?style=flat-square&amp;color=007EC6" alt="Open issues">
   </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/(c)%20All%20Rights%20Reserved%20by%20Ryanshatch-555555?style=flat-square" alt="All rights reserved">
